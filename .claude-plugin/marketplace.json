@@ -1,0 +1,11 @@
+{
+  "name": "continuplan-tools",
+  "owner": { "name": "Continuplan" },
+  "plugins": [
+    {
+      "name": "usage-weather",
+      "source": "./plugins/usage-weather",
+      "description": "Shows how fast you are using your Claude plan allowance as a weather forecast in the status line"
+    }
+  ]
+}
